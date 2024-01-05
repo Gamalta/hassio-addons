@@ -1,0 +1,3 @@
+[submodule "TFTP-hass-addons"]
+	path = TFTP-hass-addons
+	url = https://github.com/Gamalta/TFTP-hass-addons
