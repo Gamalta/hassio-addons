@@ -1,3 +1,6 @@
 [submodule "TFTP-hass-addons"]
 	path = TFTP-hass-addons
 	url = https://github.com/Gamalta/TFTP-hass-addons
+[submodule "DHCP-hass-addons"]
+	path = DHCP-hass-addons
+	url = https://github.com/Gamalta/DHCP-hass-addons
