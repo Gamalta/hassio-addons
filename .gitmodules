@@ -4,6 +4,6 @@
 [submodule "DHCP-hass-addons"]
 	path = DHCP-hass-addons
 	url = https://github.com/Gamalta/DHCP-hass-addons
-[submodule "Teamspeak3-hass-addons"]
-	path = Teamspeak3-hass-addons
-	url = https://github.com/Gamalta/Teasmpeak3-hass-addons
+[submodule "Teamspeak-hass-addons"]
+	path = Teamspeak-hass-addons
+	url = https://github.com/Gamalta/Teasmpeak-hass-addons
