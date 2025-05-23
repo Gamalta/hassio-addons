@@ -7,3 +7,6 @@
 [submodule "Teamspeak-hass-addons"]
 	path = Teamspeak-hass-addons
 	url = https://github.com/Gamalta/Teasmpeak-hass-addons
+[submodule "Bitwarden-hass-addons"]
+	path = Bitwarden-hass-addons
+	url = https://github.com/Gamalta/Bitwarden-hass-addons
