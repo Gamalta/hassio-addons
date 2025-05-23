@@ -6,6 +6,14 @@
 Simple TFTP server addons for home assistant
 https://github.com/Gamalta/TFTP-hass-addons
 
+## DHCP Add-ons:
+Simple DHCP server addons for home assistant
+https://github.com/Gamalta/DHCP-hass-addons
+
+## Teamspeak3 Add-ons:
+Simple Teamspeak3 server addons for home assistant
+https://github.com/Gamalta/Teamspeak3-hass-addons
+
 ## Installing
 
 Click on the button below:
