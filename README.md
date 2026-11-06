@@ -10,9 +10,10 @@ https://github.com/Gamalta/TFTP-hass-addons
 Simple DHCP server addons for home assistant
 https://github.com/Gamalta/DHCP-hass-addons
 
-## Teamspeak3 Add-ons:
-Simple Teamspeak3 server addons for home assistant
-https://github.com/Gamalta/Teamspeak3-hass-addons
+## Teamspeak3 Add-ons (deprecated):
+Simple Teamspeak3 server addons for home assistant.
+**Deprecated: no longer maintained and may be removed in the future.**
+https://github.com/Gamalta/Teasmpeak-hass-addons
 
 ## Installing
 
