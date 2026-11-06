@@ -10,6 +10,10 @@ https://github.com/Gamalta/TFTP-hass-addons
 Simple DHCP server addons for home assistant
 https://github.com/Gamalta/DHCP-hass-addons
 
+## Gluetun Add-ons:
+VPN client (Gluetun) exposing an HTTP proxy and a Shadowsocks server through your VPN provider
+https://github.com/Gamalta/Gluetun-hass-addons
+
 ## Teamspeak3 Add-ons (deprecated):
 Simple Teamspeak3 server addons for home assistant.
 **Deprecated: no longer maintained and may be removed in the future.**
